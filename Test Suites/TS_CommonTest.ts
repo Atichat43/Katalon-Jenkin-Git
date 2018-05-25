@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_CommonTest</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-05-25T09:57:48</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>0dbd061f-36ad-4cc7-8052-58ccfe102202</testSuiteGuid>
+   <testCaseLink>
+      <guid>16ecbe4a-b2d5-4be4-adaa-aade1a50e4f0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Common Test Cases/Login</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>19fe967b-1564-4705-aff2-848d45b84489</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>75fa3d79-7e92-4d55-b359-f7c9493ea288</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
