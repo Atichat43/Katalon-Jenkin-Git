@@ -1,5 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
-TS_CommonTest,,,2018-05-25 09:58:14,2018-05-25 09:58:21,7.331s,FAILED
-,,,,,,
-Test Cases/Common Test Cases/Login,,Common test case used to login. \nSteps:\n- Click on 'Book Appointment' button to login\n- Input username and password\n- Click on 'Login' button\n\nExpected result:\n'Appointment' section is displayed after successful login,2018-05-25 09:58:16,2018-05-25 09:58:21,4.962s,FAILED
-click,,,2018-05-25 09:58:17,2018-05-25 09:58:21,3.284s,FAILED
